@@ -1,4 +1,5 @@
 # intePareto
+The package will be maintained and updated here.
 **intePareto** is designed to prioritize genes with consistent changes in RNA-Seq and ChIP-Seq data of different histone modifications betweeen different conditions using Pareto optimization.
 
 The **intePareto** workflow starts with RNA-Seq and ChIP-Seq data for two different cell types or conditions. The ChIP-Seq data will in general comprise information on several histone modifications with activating or repressing function. The end product of intePareto is a list of genes prioritized according to congruence of changes of gene expression and histone modifications.
