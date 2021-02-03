@@ -1,5 +1,5 @@
 # intePareto
-The package **intePareto** will be maintained and updated here not on CRAN anymore.
+The package **intePareto** will be updated and maintained here not on CRAN anymore.
 
 **intePareto** is designed to prioritize genes with consistent changes in RNA-Seq and ChIP-Seq data of different histone modifications betweeen different conditions using Pareto optimization.
 
